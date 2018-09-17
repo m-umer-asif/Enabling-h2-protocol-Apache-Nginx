@@ -51,7 +51,7 @@ $ sudo apt-get install software-properties-common
 ```
 
 ```bash
-$ sudo add-apt-repository ppa:ondrej/apache2\
+$ sudo add-apt-repository ppa:ondrej/apache2
 ```
 
 ```bash
